@@ -1,0 +1,7 @@
+:root {
+  --brand: hsl(257, 40%, 49%);
+  --accent: hsl(300, 69%, 71%);
+  --text-light: #fff;
+  --font-heading: "Poppins", sans-serif;
+  --font-body: "Open Sans", sans-serif;
+}
