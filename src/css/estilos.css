@@ -39,6 +39,7 @@ body {
 .btn {
   font-family: var(--font-heading);
   background: var(--text-light);
+  color: var(--brand);
   padding: 14px;
   width: 200px;
   font-weight: 500;
